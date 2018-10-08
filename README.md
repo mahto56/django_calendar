@@ -1,7 +1,5 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-This is a calendar app inspired from `Django 2 Tutorial series` by The DumbFounds
---
 
 ![Welcome Page](1.png)
 ![Login](2.png)
